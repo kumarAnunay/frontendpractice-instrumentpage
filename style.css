@@ -44,32 +44,200 @@ body{
 div .para1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
+    margin-bottom: 50px;
 }
 
-a button{
+a.button{
+    text-decoration: none;
+    color: black;
+    background-color: #ddd;
     border-radius: 30px;
     padding-top: 15px;
     padding-bottom: 15px;
     padding-left: 25px;
     padding-right: 25px;
-    margin-left: 25px;
-    margin-top: 20px;
 }
 
-button span{
+span{
     padding-left: 10px;
 }
 
 .container4{
-    margin-top: 150px;
+    margin-top: 200px;
     display: flex;
     justify-content: center;
 }
 
 .img1{
-    width: 150vh;
+    width: 80%;
     height: 100vh;
     border-radius: 8px;
     border: 5px solid #ddd;
     padding: 5px;
+}
+
+div.container5{
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    height: 250px;
+    margin-left: 220px;
+    margin-top: 150px;
+}
+
+div p.para2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    word-spacing: 5px;
+    text-align: center;
+}
+
+.container6{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+div.content1 img{
+    margin-left: 120px;
+    width: 500px;   
+    height: 500px;
+}
+
+div.para3{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 150px;
+}
+
+p.para3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.container7{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+p.para4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+div.content2 img{
+    margin-right: 120px;
+    width: 500px;   
+    height: 500px;
+}
+
+div.para4{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 150px;
+}
+
+.container8{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+div.content3 img{
+    margin-left: 120px;
+    width: 500px;   
+    height: 500px;
+}
+
+.para5{
+    margin-left: 350px;
+    margin-right: 50px;
+    margin-top: -300px;
+    margin-bottom: 50px;
+}
+
+.para5 a{
+    margin-left: 350px;
+}
+
+p.para5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+div.container9{
+    margin-top: 350px;
+    margin-left: 350px;
+    width: 500px;
+}
+
+.para6{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p.para6 + a{
+    margin-left: 160px;
+}
+
+.container10{
+    display: flex;
+    margin-top: 350px;;
+}
+
+div.content5 img{
+    width: 500px;
+    height: 400px;
+    margin-left: 100px;
+}
+
+div.content6 img{
+    width: 500px;
+    height: 400px;
+    margin-left: 50px;
+    margin-right: 100px;;
+}
+
+div.content5 p{
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+div.content6 p{
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+div.links1{
+    margin-top: 300px;
+    margin-left: 250px;
+    word-spacing: 50px;
+}
+
+div.links1 a{
+    font-size: 70px;
+    color: #ddd;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container11{
+    margin-top: 300px;
+}
+
+.para8{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div.container11 a{
+    margin-left: 500px;
 }
