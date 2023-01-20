@@ -235,12 +235,36 @@ div.links1 a{
     margin-top: 300px;
 }
 
-.para8{
-    font-size: 50px;
+.para7, .para8{
+    font-size: 20px;
     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+
+div.container11 a{
+    margin-left: 550px;
+}
+
+div.container12{
+    margin-top: 300px;
+    display: flex;
+    margin-left: 30px;
+}
+
+.list3, .list2{
+    list-style: none;
+}
+
+.list2 li, .list3 li{
+    padding-bottom: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-div.container11 a{
+.footer3{
     margin-left: 500px;
+    margin-top: 120px;
+}
+
+.footer3 a{
+    padding-left: 25px;
 }
